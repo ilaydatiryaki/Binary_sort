@@ -1,1 +1,17 @@
-# Binary_sort
+# Binary  Sort
+
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamaları:
+
+
+
+ - Dizinin root elemanı 5 olarak seçilir. Her bir adımda kendisinden küçükler sola, büyükler sağa olacak şekilde ağacın yapısına yerleştirilir.
+            
+                         5 
+                    /        \
+                   3          7  
+                  / \        / \ 
+                 1   4      6   8        
+                / \              \     
+               0   2              9       
+               
+              
